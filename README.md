@@ -1,12 +1,10 @@
-# Aesthetic Wallpapers
+# 🎨 Aesthetic Wallpapers
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Aesthetic%20Wallpapers&fontSize=90&fontAlignY=38&desc=Transform%20Your%20Digital%20Space%20Into%20Art&descAlignY=55&descAlign=50&animation=twinkling)
+# ✨ Transform Your Digital Space Into Art ✨
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+Premium+Wallpapers;High+Quality+4K+Collections;Minimalism+Nature+Abstract;Regular+Updates+and+New+Designs;Curated+for+Aesthetic+Perfection" alt="Typing SVG" />
-</p>
+### Welcome to Premium Wallpapers | High Quality 4K+ Collections | Minimalism • Nature • Abstract
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/SaOYaD123/Aesthetic-Wallpapers?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41" alt="Stars"/>
@@ -80,35 +78,47 @@ Immerse yourself in a carefully curated collection of **premium wallpapers** des
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🎨 Abstract</h3>
-<p><i>Mesmerizing patterns, bold colors, and artistic expressions that push creative boundaries</i></p>
+
+### 🎨 Abstract
+*Mesmerizing patterns, bold colors, and artistic expressions that push creative boundaries*
+
 </td>
 
 <td align="center" width="33%">
-<h3>📐 Minimal</h3>
-<p><i>Clean lines, subtle elegance, and distraction-free designs for focused minds</i></p>
+
+### 📐 Minimal
+*Clean lines, subtle elegance, and distraction-free designs for focused minds*
+
 </td>
 
 <td align="center" width="33%">
-<h3>🌳 Nature</h3>
-<p><i>Breathtaking landscapes, serene forests, and earth's natural beauty captured perfectly</i></p>
+
+### 🌳 Nature
+*Breathtaking landscapes, serene forests, and earth's natural beauty captured perfectly*
+
 </td>
 </tr>
 
 <tr>
 <td align="center" width="33%">
-<h3>🌌 Space</h3>
-<p><i>Cosmic wonders, galaxies, nebulas, and celestial phenomena from the universe</i></p>
+
+### 🌌 Space
+*Cosmic wonders, galaxies, nebulas, and celestial phenomena from the universe*
+
 </td>
 
 <td align="center" width="33%">
-<h3>🎞️ Retro</h3>
-<p><i>Vintage vibes, neon nostalgia, and throwback aesthetics from past decades</i></p>
+
+### 🎞️ Retro
+*Vintage vibes, neon nostalgia, and throwback aesthetics from past decades*
+
 </td>
 
 <td align="center" width="33%">
-<h3>🌈 Vibrant</h3>
-<p><i>Bold, bright, and energetic wallpapers that make your screen come alive</i></p>
+
+### 🌈 Vibrant
+*Bold, bright, and energetic wallpapers that make your screen come alive*
+
 </td>
 </tr>
 </table>
@@ -239,30 +249,27 @@ cd minimal/  # or abstract, nature, space, retro, vibrant
 
 ### 💝 We Love Community Contributions!
 
-</div>
-
 Want to share your aesthetic wallpapers with the world? Here's how:
+
+</div>
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### 1️⃣ Fork
-
 Fork this repository to your account
 
 </td>
 <td width="33%" align="center">
 
 ### 2️⃣ Add
-
 Add your wallpapers to appropriate categories
 
 </td>
 <td width="33%" align="center">
 
 ### 3️⃣ Submit
-
 Create a pull request with details
 
 </td>
@@ -284,7 +291,7 @@ Create a pull request with details
 
 <div align="center">
 
-### Creative Commons License
+### 📄 Creative Commons License
 
 All wallpapers are provided under **Creative Commons** license unless stated otherwise.
 
@@ -299,22 +306,6 @@ All wallpapers are provided under **Creative Commons** license unless stated oth
 
 ---
 
-## 📊 Stats & Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD123&theme=tokyo-night&hide_border=true&area=true)
-
-<br/><br/>
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SaOYaD123&repo=Aesthetic-Wallpapers&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
-
-</div>
-
-<br/>
-
----
-
 ## 💬 Community & Support
 
 <div align="center">
@@ -322,31 +313,35 @@ All wallpapers are provided under **Creative Commons** license unless stated oth
 <table>
 <tr>
 <td align="center" width="25%">
-<br/>
-<b>⭐ Star the Repo</b>
-<br/>
-<sub>Show your support!</sub>
+
+**⭐ Star the Repo**
+
+Show your support!
+
 </td>
 
 <td align="center" width="25%">
-<br/>
-<b>🐛 Report Issues</b>
-<br/>
-<sub>Found a problem?</sub>
+
+**🐛 Report Issues**
+
+Found a problem?
+
 </td>
 
 <td align="center" width="25%">
-<br/>
-<b>💡 Suggest Ideas</b>
-<br/>
-<sub>Have a feature request?</sub>
+
+**💡 Suggest Ideas**
+
+Have a feature request?
+
 </td>
 
 <td align="center" width="25%">
-<br/>
-<b>🤝 Contribute</b>
-<br/>
-<sub>Share your wallpapers!</sub>
+
+**🤝 Contribute**
+
+Share your wallpapers!
+
 </td>
 </tr>
 </table>
@@ -372,8 +367,6 @@ All wallpapers are provided under **Creative Commons** license unless stated oth
   </a>
 </p>
 
-<br/>
-
 ### 📢 Spread the Word!
 
 *Share with friends, colleagues, and fellow aesthetic enthusiasts!*
@@ -398,16 +391,16 @@ All wallpapers are provided under **Creative Commons** license unless stated oth
 
 <br/><br/>
 
+---
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer&text=Thank%20You!&fontSize=70&fontAlignY=70&desc=Enjoy%20the%20collection%20and%20let%20your%20setup%20shine&descAlignY=90&descAlign=50&animation=twinkling)
+## 🎉 Thank You! 🎉
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Star+this+repo+if+you+like+it;Made+with+love+for+aesthetic+lovers;Transform+your+digital+space+today" alt="Typing SVG" />
-</p>
+### Enjoy the collection and let your setup shine! ✨
 
-<p align="center">
-  <sub>© 2026 Aesthetic Wallpapers • Made with ❤️ by <a href="https://github.com/SaOYaD123">SaOYaD123</a></sub>
-</p>
+**⭐ Star this repo if you like it • 💝 Made with love for aesthetic lovers • 🎨 Transform your digital space today**
+
+<sub>© 2026 Aesthetic Wallpapers • Made with ❤️ by <a href="https://github.com/SaOYaD123">SaOYaD123</a></sub>
 
 </div>
