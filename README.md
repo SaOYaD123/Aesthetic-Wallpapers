@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Aesthetic%20Wallpapers&fontSize=90&fontAlignY=38&desc=Transform%20Your%20Digital%20Space%20Into%20Art&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Aesthetic%20Wallpapers&fontSize=90&fontAlignY=38&desc=Transform%20Your%20Digital%20Space%20Into%20Art&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+Premium+Wallpapers;High+Quality+4K+Collections;Minimalism+Nature+Abstract;Regular+Updates+and+New+Designs;Curated+for+Aesthetic+Perfection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Premium+Wallpapers;High+Quality+4K+Collections;Minimalism+Nature+Abstract;Regular+Updates+and+New+Designs;Curated+for+Aesthetic+Perfection&font=Fira+Code&center=true&width=600&height=100&duration=4000&pause=1000&color=A855F7&vCenter=true" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Resolution-4K%2B-blueviolet?style=for-the-badge&logo=4k&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resolution-4K+-blueviolet?style=for-the-badge&logo=4k&logoColor=white"/>
   <img src="https://img.shields.io/badge/Quality-Premium-gold?style=for-the-badge&logo=qualys&logoColor=white"/>
   <img src="https://img.shields.io/badge/License-CC-green?style=for-the-badge&logo=creativecommons&logoColor=white"/>
 </p>
@@ -133,3 +133,306 @@ Immerse yourself in a carefully curated collection of **premium wallpapers** des
 ╔══════════════════════════════════════════════════════════════╗
 ║                   🚀 Get Started in 3 Steps                  ║
 ╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### **Step 1️⃣: Clone the Repository**
+```bash
+git clone https://github.com/SaOYaD123/Aesthetic-Wallpapers.git
+cd Aesthetic-Wallpapers
+```
+
+### **Step 2️⃣: Browse & Choose**
+```bash
+# Explore categories
+ls -la
+
+# Navigate to your preferred category
+cd minimal/  # or abstract, nature, space, retro, vibrant
+```
+
+### **Step 3️⃣: Set Your Wallpaper**
+- 🖥️ **Desktop**: Right-click → Set as wallpaper
+- 📱 **Mobile**: Transfer and apply through gallery
+- 🎨 **Design Projects**: Use freely in your creative work
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🗂️ Repository Structure
+
+<div align="center">
+
+```
+📦 Aesthetic-Wallpapers
+┃
+┣ 📂 abstract/
+┃ ┗ 🎨 Colorful patterns, geometric designs, artistic expressions
+┃
+┣ 📂 minimal/
+┃ ┗ 📐 Clean aesthetics, simple elegance, modern minimalism
+┃
+┣ 📂 nature/
+┃ ┗ 🌳 Landscapes, forests, mountains, oceans, wildlife
+┃
+┣ 📂 space/
+┃ ┗ 🌌 Galaxies, planets, nebulas, cosmic phenomena
+┃
+┣ 📂 retro/
+┃ ┗ 🎞️ Vintage designs, neon lights, 80s-90s aesthetics
+┃
+┣ 📂 vibrant/
+┃ ┗ 🌈 Bold colors, energetic designs, eye-catching visuals
+┃
+┗ 📜 README.md
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎨 Preview Gallery
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20,24&height=5&section=header" width="100%"/>
+
+### ✨ Sneak Peek Into Our Collections
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 📐 **Minimal Elegance**
+*Clean, sophisticated, and timelessly beautiful designs perfect for professionals and creatives*
+
+</td>
+<td align="center" width="50%">
+
+#### 🌳 **Nature's Masterpieces**
+*From misty mountains to tranquil oceans - nature's finest moments captured in high resolution*
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+#### 🎨 **Abstract Artistry**
+*Bold expressions of creativity with flowing shapes, gradients, and imaginative patterns*
+
+</td>
+<td align="center" width="50%">
+
+#### 🌌 **Cosmic Wonders**
+*Journey through space with stunning imagery of our universe's most beautiful phenomena*
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20,24&height=5&section=footer" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 Contributing
+
+<div align="center">
+
+### 💝 We Love Community Contributions!
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
+</div>
+
+Want to share your aesthetic wallpapers with the world? Here's how:
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 1️⃣ Fork
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+
+Fork this repository to your account
+
+</td>
+<td width="33%" align="center">
+
+### 2️⃣ Add
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+
+Add your wallpapers to appropriate categories
+
+</td>
+<td width="33%" align="center">
+
+### 3️⃣ Submit
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+
+Create a pull request with details
+
+</td>
+</tr>
+</table>
+
+#### 📋 Contribution Guidelines:
+- ✅ Wallpapers must be **minimum 4K resolution**
+- ✅ Use **descriptive filenames** (e.g., `sunset-mountain-4k.jpg`)
+- ✅ Ensure **proper licensing** or original work
+- ✅ Place in the **correct category folder**
+- ✅ **Optimize file size** without quality loss
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📜 License & Attribution
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+
+### Creative Commons License
+
+All wallpapers are provided under **Creative Commons** license unless stated otherwise.
+
+- 💚 **Free for personal use**
+- 🎨 **Attribution appreciated** but not required
+- 📝 **Check individual files** for specific attribution needs
+- 🚫 **Commercial use** may require permission
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD123&repo=Aesthetic-Wallpapers&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaOYaD123&repo=Aesthetic-Wallpapers&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💬 Community & Support
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80"/>
+<br/>
+<b>⭐ Star the Repo</b>
+<br/>
+<sub>Show your support!</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80"/>
+<br/>
+<b>🐛 Report Issues</b>
+<br/>
+<sub>Found a problem?</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3b6a19a3cd4.gif" width="80"/>
+<br/>
+<b>💡 Suggest Ideas</b>
+<br/>
+<sub>Have a feature request?</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15c3b9c1-e2e0-4d75-8cae-e0a77b05c9c3.png" width="80"/>
+<br/>
+<b>🤝 Contribute</b>
+<br/>
+<sub>Share your wallpapers!</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌟 Show Your Support
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d72901962b34.gif" width="200"/>
+
+### If you find this collection helpful, consider:
+
+<p>
+  <a href="https://github.com/SaOYaD123/Aesthetic-Wallpapers/stargazers">
+    <img src="https://img.shields.io/badge/Star_This_Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=f5c518&color=f5c518"/>
+  </a>
+  <a href="https://github.com/SaOYaD123/Aesthetic-Wallpapers/fork">
+    <img src="https://img.shields.io/badge/Fork_and_Share-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494&color=6e5494"/>
+  </a>
+</p>
+
+<br/>
+
+### 📢 Spread the Word!
+
+*Share with friends, colleagues, and fellow aesthetic enthusiasts!*
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🙏 Acknowledgments
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150" />
+
+### Special Thanks To:
+
+- 🎨 **All Contributors** - For sharing beautiful wallpapers
+- 💝 **The Community** - For stars, forks, and support
+- 🌟 **You** - For being here and appreciating aesthetics
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thank%20You!&fontSize=70&fontAlignY=70&desc=Enjoy%20the%20collection%20and%20let%20your%20setup%20shine!&descAlignY=90&descAlign=50&animation=twinkling" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Star+this+repo+if+you+like+it;Made+with+love+for+aesthetic+lovers;Transform+your+digital+space+today&font=Fira+Code&center=true&width=600&height=50&duration=4000&pause=1000&color=A855F7&vCenter=true" />
+</p>
+
+<p align="center">
+  <sub>© 2026 Aesthetic Wallpapers • Made with ❤️ by <a href="https://github.com/SaOYaD123">SaOYaD123</a></sub>
+</p>
+
+</div>
