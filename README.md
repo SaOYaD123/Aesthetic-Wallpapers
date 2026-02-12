@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/SaOYaD123/Aesthetic-Wallpapers?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/>
-  <img src="https://img.shields.io/github/forks/SaOYaD123/Aesthetic-Wallpapers?style=for-the-badge&logo=git&color=F5C2E7&logoColor=D9E0EE&labelColor=302D41"/>
-  <img src="https://img.shields.io/github/repo-size/SaOYaD123/Aesthetic-Wallpapers?style=for-the-badge&logo=github&color=ABE9B3&logoColor=D9E0EE&labelColor=302D41"/>
-  <img src="https://img.shields.io/github/last-commit/SaOYaD123/Aesthetic-Wallpapers?style=for-the-badge&logo=gitbook&color=FAE3B0&logoColor=D9E0EE&labelColor=302D41"/>
+  <img src="https://img.shields.io/github/stars/SaOYaD-SZN/Aesthetic-Wallpapers?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"/>
+  <img src="https://img.shields.io/github/forks/SaOYaD-SZN/Aesthetic-Wallpapers?style=for-the-badge&logo=git&color=F5C2E7&logoColor=D9E0EE&labelColor=302D41"/>
+  <img src="https://img.shields.io/github/repo-size/SaOYaD-SZN/Aesthetic-Wallpapers?style=for-the-badge&logo=github&color=ABE9B3&logoColor=D9E0EE&labelColor=302D41"/>
+  <img src="https://img.shields.io/github/last-commit/SaOYaD-SZN/Aesthetic-Wallpapers?style=for-the-badge&logo=gitbook&color=FAE3B0&logoColor=D9E0EE&labelColor=302D41"/>
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@ Immerse yourself in a carefully curated collection of **premium wallpapers** des
 
 ### **Step 1️⃣: Clone the Repository**
 ```bash
-git clone https://github.com/SaOYaD123/Aesthetic-Wallpapers.git
+git clone https://github.com/SaOYaD-SZN/Aesthetic-Wallpapers.git
 cd Aesthetic-Wallpapers
 ```
 
@@ -320,11 +320,11 @@ All wallpapers are provided under **Creative Commons** license unless stated oth
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD123&repo=Aesthetic-Wallpapers&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaOYaD-SZN&repo=Aesthetic-Wallpapers&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaOYaD123&repo=Aesthetic-Wallpapers&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaOYaD-SZN&repo=Aesthetic-Wallpapers&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
 
 </div>
 
@@ -387,10 +387,10 @@ All wallpapers are provided under **Creative Commons** license unless stated oth
 ### If you find this collection helpful, consider:
 
 <p>
-  <a href="https://github.com/SaOYaD123/Aesthetic-Wallpapers/stargazers">
+  <a href="https://github.com/SaOYaD-SZN/Aesthetic-Wallpapers/stargazers">
     <img src="https://img.shields.io/badge/Star_This_Repo-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=f5c518&color=f5c518"/>
   </a>
-  <a href="https://github.com/SaOYaD123/Aesthetic-Wallpapers/fork">
+  <a href="https://github.com/SaOYaD-SZN/Aesthetic-Wallpapers/fork">
     <img src="https://img.shields.io/badge/Fork_and_Share-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494&color=6e5494"/>
   </a>
 </p>
@@ -432,7 +432,7 @@ All wallpapers are provided under **Creative Commons** license unless stated oth
 </p>
 
 <p align="center">
-  <sub>© 2026 Aesthetic Wallpapers • Made with ❤️ by <a href="https://github.com/SaOYaD123">SaOYaD123</a></sub>
+  <sub>© 2026 Aesthetic Wallpapers • Made with ❤️ by <a href="https://github.com/SaOYaD-SZN">SaOYaD-SZN</a></sub>
 </p>
 
 </div>
